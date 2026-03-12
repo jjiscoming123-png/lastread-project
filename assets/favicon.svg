@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="40" fill="#0a1628"/>
+  <g transform="translate(90,80)">
+    <polyline points="-28,2 -18,16 6,-14" fill="none" stroke="#34b7f1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="-12,2 -2,16 22,-14" fill="none" stroke="#34b7f1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="90" y="125" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#34b7f1" opacity="0.8" letter-spacing="0.1em">READ</text>
+</svg>
